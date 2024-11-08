@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="eJEe.fh52skOzH#vFor:" x="0" y="0"></block><block type="device_forever" id="ZD(%FM5J/wJ_-awAoLDf" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id=":ol8D-mS!Hl}p*:kF_kQ"><value name="IF0"><shadow type="logic_boolean" id="JQ|#goXkZLClpx+:d$V`" disabled-reasons="MANUALLY_DISABLED"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="jt:d05@K?UXshbIAPcb["><field name="OP">EQ</field><value name="A"><shadow type="math_number" id="}Fu{=g-+=|Qx.p1U@}i@" disabled-reasons="MANUALLY_DISABLED"><field name="NUM">0</field></shadow><block type="device_get_digital_pin" id="nL:bdJ?-{Vc=]2LbMg]="><value name="name"><shadow type="digital_pin_shadow" id="N9isa.^wo9$d/mRr~OrD"><field name="pin">DigitalPin.P13</field></shadow></value></block></value><value name="B"><shadow type="math_number" id="y:tF_4ZX(=+6+1N0r|kY"><field name="NUM">1</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="6+lLMNcXxPXNWz4=E$=l"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block></statement></block><block type="device_forever" id="s0qlmkhI]F2ol]hqq}(d" x="212" y="439"><statement name="HANDLER"><block type="controls_if" id="345`kw16yR=^Pdzk?U+5"><value name="IF0"><shadow type="logic_boolean" id="r{V+Q:UO=iGt.[MLNbJr" disabled-reasons="MANUALLY_DISABLED"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id=".xj1tG06$H/`NgSIif}r"><field name="OP">EQ</field><value name="A"><shadow type="math_number" id="Zq2UNuyOFQCW]t7KoRLv" disabled-reasons="MANUALLY_DISABLED"><field name="NUM">0</field></shadow><block type="device_get_digital_pin" id="lt%dHn}~)l`zUQ{_9*@-"><value name="name"><shadow type="digital_pin_shadow" id="Ju?$[:I=iNY4}X]~prN!"><field name="pin">DigitalPin.P13</field></shadow></value></block></value><value name="B"><shadow type="math_number" id="bZ=8:C71j8tqb+2U]d~t"><field name="NUM">0</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="0@lb?3uYn#G~@REqsF~W"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block></statement></block></xml>
